@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\v-chuqi\documents\visual studio 2015\projects\opencvdemo\opencvdemo\main.cpp(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\v-chuqi\documents\visual studio 2015\projects\opencvdemo\opencvdemo\main.cpp(105): warning C4101: 'maxVal': unreferenced local variable
+c:\users\v-chuqi\documents\visual studio 2015\projects\opencvdemo\opencvdemo\main.cpp(105): warning C4101: 'minVal': unreferenced local variable
+  OpenCVDemo.vcxproj -> C:\Users\v-chuqi\Documents\Visual Studio 2015\Projects\OpenCVDemo\x64\Debug\OpenCVDemo.exe
